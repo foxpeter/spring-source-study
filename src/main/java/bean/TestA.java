@@ -1,4 +1,4 @@
-package Domain;
+package bean;
 
 /**
  * Created by mhw on 2016/9/5.
