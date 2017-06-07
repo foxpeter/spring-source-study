@@ -6,7 +6,11 @@
 
     <groupId>mhw</groupId>
     <artifactId>spring-source-study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>customertag</module>
+    </modules>
 
     <properties>
         <project.version>1.0</project.version>
